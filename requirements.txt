@@ -1,0 +1,10 @@
+boto3
+coverage
+flake8
+jsonschema
+mailchimp-transactional
+mock
+nose
+numpy
+pillow
+requests
